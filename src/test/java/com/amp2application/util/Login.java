@@ -56,7 +56,7 @@ public class Login {
 	captureScreenShot.screenshots(driver,"3.Enterpassword","Screenshot");
 	driver.findElement(By.id("submit")).click();
 	captureScreenShot.screenshots(driver,"4.Successfulllogin","Screenshot");
-	
+//	driver.findElement(By.cssSelector("a[href*='#'][data-original-title1='CRM']")).click();
 	//driver.quit();
 	
 	

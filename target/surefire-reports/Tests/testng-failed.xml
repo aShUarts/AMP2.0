@@ -6,13 +6,4 @@
       <class name="com.amp2application.crm"/>
     </classes>
   </test> <!-- Test1 -->
-  <test name="Test1(failed)">
-    <classes>
-      <class name="com.amp2application.crm">
-        <methods>
-          <include name="add"/>
-        </methods>
-      </class> <!-- com.amp2application.crm -->
-    </classes>
-  </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Tests] -->

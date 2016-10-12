@@ -1,9 +1,9 @@
-com\amp2application\util\Login.class
 com\amp2application\pages\Page.class
 com\amp2application\SampleTestNgTest.class
 com\amp2application\crm.class
 com\amp2application\util\captureScreenShot.class
 com\amp2application\util\PropertyLoader.class
-com\amp2application\util\RandomGenerator.class
 com\amp2application\TestNgTestBase.class
+com\amp2application\util\Login.class
+com\amp2application\util\RandomGenerator.class
 com\amp2application\pages\HomePage.class
