@@ -90,6 +90,12 @@ public class crm {
         Select contactperson_designation_dropdown= new Select(driver.findElement(By.id("crm_cpd_designation")));
         contactperson_designation_dropdown.selectByVisibleText(prop.getProperty("Designation"));
         driver.findElement(By.xpath("//input[@type='submit']")).click();
+        try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
         captureScreenShot.screenshots(driver,"4.SubmitCustomer","CRM");		
 		//driver.quit();
 	}

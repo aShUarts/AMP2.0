@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Tests" duration-ms="59287" started-at="2016-10-12T12:32:46Z" finished-at="2016-10-12T12:33:45Z">
+  <suite name="Tests" duration-ms="32003" started-at="2016-10-12T12:59:31Z" finished-at="2016-10-12T13:00:03Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="59287" started-at="2016-10-12T12:32:46Z" finished-at="2016-10-12T12:33:45Z">
+    <test name="Test1" duration-ms="32003" started-at="2016-10-12T12:59:31Z" finished-at="2016-10-12T13:00:03Z">
       <class name="com.amp2application.crm">
-        <test-method status="PASS" signature="add()[pri:0, instance:com.amp2application.crm@566776ad]" name="add" duration-ms="59264" started-at="2016-10-12T18:02:46Z" finished-at="2016-10-12T18:03:45Z">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.amp2application.crm@6cd8737]" name="add" duration-ms="31983" started-at="2016-10-12T18:29:31Z" finished-at="2016-10-12T18:30:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- add -->
